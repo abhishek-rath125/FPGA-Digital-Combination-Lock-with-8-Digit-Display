@@ -295,8 +295,9 @@ The self-checking testbench ([`sim/tb_digital_lock.v`](sim/tb_digital_lock.v)) p
 
 ---
 
-## 📜 License & Credits
+## 📜 Project Credits & Information
 
-* **Target Hardware**: RealDigital Urbana FPGA Development Board (AMD Spartan-7 XC7S50).
-* **Reference Architecture**: MIT 6.205 (Digital Systems Laboratory) Mini-Project #34.
-* **License**: MIT License - Free for educational and open-source FPGA development.
+* **Developer**: Abhishek (Department of Electrical and Electronics Engineering, NIT Goa)
+* **Project Type**: FPGA Mini Project
+* **Target Hardware**: RealDigital Urbana FPGA Development Board (AMD Spartan-7 XC7S50-CSGA324-1)
+* **License**: MIT License - Free for educational and open-source FPGA development
