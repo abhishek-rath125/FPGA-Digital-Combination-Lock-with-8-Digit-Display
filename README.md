@@ -2,7 +2,6 @@
 
 [![Board: RealDigital Urbana](https://img.shields.io/badge/Board-RealDigital%20Urbana%20V2I1-007ACC?style=flat&logo=xilinx)](https://www.realdigital.org)
 [![FPGA: AMD Spartan-7](https://img.shields.io/badge/FPGA-AMD%20Spartan--7%20XC7S50-red?style=flat&logo=amd)](https://www.amd.com)
-[![Toolchain: Vivado 2026.1 / 2023+](https://img.shields.io/badge/EDA-Vivado%202026.1-blue?style=flat&logo=xilinx)](https://www.xilinx.com)
 [![Language: Verilog-2001](https://img.shields.io/badge/Language-Verilog--2001-green?style=flat)](https://en.wikipedia.org/wiki/Verilog)
 [![Hardware Verified](https://img.shields.io/badge/Status-100%25%20Hardware%20Verified-brightgreen?style=flat)](https://github.com)
 
